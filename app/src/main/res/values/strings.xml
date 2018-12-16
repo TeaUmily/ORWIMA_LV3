@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ORWIMA_LV3</string>
+    <string name="switch_places">switch place</string>
+    <string name="enter_message">Hello there!</string>
+    <string name="submit">SUBMIT</string>
+    <string name="bla_bla">BLA BLA</string>
+    <string name="puzzle">Ona obiđe cijeli svijet, a nikad se ne makne iz kuta. Što je ona?</string>
+    <string name="solution">SOLUTION</string>
+    <string name="puzzle_solution">Poštanska marka.</string>
+</resources>
